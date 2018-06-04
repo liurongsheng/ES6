@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="291189a3-60f7-4881-ac61-1c0ad5357b68" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/15.Reflect.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/16.Promise.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/17.Iterator 和 for...of 循环.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/18.Generator 函数的语法.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/19.Generator 函数的异步应用.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/20.async 函数.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/21.Class 的基本语法.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/22.Class 的继承.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/23.Decorator修饰器.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/1. let命令.md" afterPath="$PROJECT_DIR$/01. let命令.md" />
+      <change beforePath="$PROJECT_DIR$/2.块级作用域.md" afterPath="$PROJECT_DIR$/02.块级作用域.md" />
+      <change beforePath="$PROJECT_DIR$/3.const命令.md" afterPath="$PROJECT_DIR$/03.const命令.md" />
+      <change beforePath="$PROJECT_DIR$/4.顶层对象与全局变量属性.md" afterPath="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
+      <change beforePath="$PROJECT_DIR$/5.变量的解构赋值.md" afterPath="$PROJECT_DIR$/05.变量的解构赋值.md" />
+      <change beforePath="$PROJECT_DIR$/6.字符串的扩展.md" afterPath="$PROJECT_DIR$/06.字符串的扩展.md" />
+      <change beforePath="$PROJECT_DIR$/7.正则的拓展.md" afterPath="$PROJECT_DIR$/07.正则的拓展.md" />
+      <change beforePath="$PROJECT_DIR$/8.数值的扩展.md" afterPath="$PROJECT_DIR$/08.数值的扩展.md" />
+      <change beforePath="$PROJECT_DIR$/9.函数的拓展.md" afterPath="$PROJECT_DIR$/09.函数的拓展.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -279,7 +278,7 @@
       <workItem from="1527764970958" duration="2323000" />
       <workItem from="1527817265991" duration="5287000" />
       <workItem from="1527844197355" duration="94000" />
-      <workItem from="1528092845505" duration="8522000" />
+      <workItem from="1528092845505" duration="8782000" />
     </task>
     <task id="LOCAL-00001" summary="字符串的拓展">
       <created>1527330353584</created>
@@ -302,11 +301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527844029830</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增">
+      <created>1528102057934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528102057934</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70927000" />
+    <option name="totallyTimeSpent" value="71187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1925" height="1050" extended-state="0" />
@@ -370,34 +376,35 @@
     <MESSAGE value="数值的拓展" />
     <MESSAGE value="函数的拓展" />
     <MESSAGE value="函数的拓展整理" />
-    <option name="LAST_COMMIT_MESSAGE" value="函数的拓展整理" />
+    <MESSAGE value="新增" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7.正则的拓展.md" />
-    <entry file="file://$PROJECT_DIR$/6.字符串的扩展.md" />
-    <entry file="file://$PROJECT_DIR$/7.正则的拓展.md" />
+    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md" />
+    <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md" />
+    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md" />
     <entry file="file://$PROJECT_DIR$/1.let变量.md" />
-    <entry file="file://$PROJECT_DIR$/2.块级作用域.md" />
-    <entry file="file://$PROJECT_DIR$/1. let命令.md" />
+    <entry file="file://$PROJECT_DIR$/02.块级作用域.md" />
+    <entry file="file://$PROJECT_DIR$/01. let命令.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/3.const命令.md">
+    <entry file="file://$PROJECT_DIR$/03.const命令.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.顶层对象与全局变量属性.md" />
-    <entry file="file://$PROJECT_DIR$/5.变量的解构赋值.md" />
-    <entry file="file://$PROJECT_DIR$/9.函数的拓展.md" />
-    <entry file="file://$PROJECT_DIR$/6.字符串的扩展.md" />
-    <entry file="file://$PROJECT_DIR$/7.正则的拓展.md" />
+    <entry file="file://$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
+    <entry file="file://$PROJECT_DIR$/05.变量的解构赋值.md" />
+    <entry file="file://$PROJECT_DIR$/09.函数的拓展.md" />
+    <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md" />
+    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
-    <entry file="file://$PROJECT_DIR$/8.数值的扩展.md">
+    <entry file="file://$PROJECT_DIR$/08.数值的扩展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -407,16 +414,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9.函数的拓展.md">
+    <entry file="file://$PROJECT_DIR$/09.函数的拓展.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.字符串的扩展.md" />
-    <entry file="file://$PROJECT_DIR$/7.正则的拓展.md" />
-    <entry file="file://$PROJECT_DIR$/6.字符串的扩展.md" />
+    <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md" />
+    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md" />
+    <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md" />
     <entry file="file://$PROJECT_DIR$/1.let变量.md" />
     <entry file="file://$PROJECT_DIR$/10.对象的拓展.md.html" />
     <entry file="file://$PROJECT_DIR$/10.对象的拓展.md" />
@@ -448,7 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.顶层对象与全局变量属性.md">
+    <entry file="file://$PROJECT_DIR$/04.顶层对象与全局变量属性.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -458,7 +465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.const命令.md">
+    <entry file="file://$PROJECT_DIR$/03.const命令.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
@@ -473,7 +480,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1. let命令.md">
+    <entry file="file://$PROJECT_DIR$/01. let命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -483,7 +490,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.块级作用域.md">
+    <entry file="file://$PROJECT_DIR$/02.块级作用域.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -493,7 +500,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8.数值的扩展.md">
+    <entry file="file://$PROJECT_DIR$/08.数值的扩展.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
@@ -518,7 +525,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.正则的拓展.md">
+    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
@@ -528,7 +535,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.字符串的扩展.md">
+    <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
@@ -543,7 +550,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.变量的解构赋值.md">
+    <entry file="file://$PROJECT_DIR$/05.变量的解构赋值.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -553,7 +560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9.函数的拓展.md">
+    <entry file="file://$PROJECT_DIR$/09.函数的拓展.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="19361">
           <caret line="1019" column="45" lean-forward="false" selection-start-line="1019" selection-start-column="45" selection-end-line="1019" selection-end-column="45" />
