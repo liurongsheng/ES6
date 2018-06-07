@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="291189a3-60f7-4881-ac61-1c0ad5357b68" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/24.Module的语法.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/25.Module 的加载实现.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/26.编码风格.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/27.读懂ECMAScript规格.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" afterPath="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,70 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="24.Module的语法.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/24.Module的语法.md">
+      <file leaf-file-name="25.Module 的加载实现.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/25.Module 的加载实现.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-                <folding>
-                  <marker date="1528343454984" expanded="true" signature="2817:2844" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="4006:4055" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="4272:4335" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="5444:5488" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="5494:5538" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="5725:5755" ph="..." />
-                  <marker date="1528343454984" expanded="true" signature="5794:5856" ph="..." />
-                  <marker date="1528343454984" expanded="true" signature="6406:6453" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="6501:6543" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="7314:7347" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="7715:7748" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="7782:7815" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="7956:7982" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="7958:7976" ph="//..." />
-                  <marker date="1528343454984" expanded="true" signature="8019:8040" ph="//..." />
-                  <marker date="1528343454984" expanded="true" signature="8069:8095" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="8071:8089" ph="//..." />
-                  <marker date="1528343454984" expanded="true" signature="8469:8496" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="8530:8582" ph="//..." />
-                  <marker date="1528343454984" expanded="true" signature="8633:8673" ph="//..." />
-                  <marker date="1528343454984" expanded="true" signature="9330:9350" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="9405:9425" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="9600:9607" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="10440:10589" ph="..." />
-                  <marker date="1528343454984" expanded="true" signature="10957:10990" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="11287:11349" ph="..." />
-                  <marker date="1528343454984" expanded="true" signature="11754:11782" ph="//..." />
-                  <marker date="1528343454984" expanded="true" signature="11973:12099" ph="{&quot;url&quot;: 'http://my.couchdbserver.local:5984'...}" />
-                  <marker date="1528343454984" expanded="true" signature="12547:12595" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="13308:13352" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="13374:13423" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="13707:13869" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="13765:13800" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="13824:13862" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="13834:13854" ph="/*...*/" />
-                  <marker date="1528343454984" expanded="true" signature="13990:14032" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="14038:14080" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="14338:14359" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="14494:14538" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="14630:14668" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="14715:14812" ph="[...]" />
-                  <marker date="1528343454984" expanded="true" signature="14857:14875" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="14935:15244" ph="{...}" />
-                  <marker date="1528343454984" expanded="true" signature="15123:15236" ph="[...]" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="23.Decorator修饰器.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23.Decorator修饰器.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="374">
+                <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -88,12 +33,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="21.Class 的基本语法.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/21.Class 的基本语法.md">
+      <file leaf-file-name="27.读懂ECMAScript规格.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/27.读懂ECMAScript规格.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2187">
-                <caret line="786" column="25" lean-forward="false" selection-start-line="786" selection-start-column="25" selection-end-line="786" selection-end-column="25" />
+              <first_editor relative-caret-position="1120">
+                <caret line="203" column="43" lean-forward="true" selection-start-line="203" selection-start-column="43" selection-end-line="203" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -101,12 +46,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20.async 函数.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20.async 函数.md">
+      <file leaf-file-name="26.编码风格.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26.编码风格.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="93" />
+              <first_editor relative-caret-position="204">
+                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="93" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.顶层对象与全局变量属性.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04.顶层对象与全局变量属性.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="487">
+                <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -164,6 +122,10 @@
         <option value="$PROJECT_DIR$/19.Generator 函数的异步应用.md" />
         <option value="$PROJECT_DIR$/20.async 函数.md" />
         <option value="$PROJECT_DIR$/24.Module的语法.md" />
+        <option value="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
+        <option value="$PROJECT_DIR$/25.Module 的加载实现.md" />
+        <option value="$PROJECT_DIR$/26.编码风格.md" />
+        <option value="$PROJECT_DIR$/27.读懂ECMAScript规格.md" />
       </list>
     </option>
   </component>
@@ -285,7 +247,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75039000" />
+    <option name="totallyTimeSpent" value="80936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1925" height="1050" extended-state="0" />
@@ -294,11 +256,11 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08320085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.5124536" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12924425" sideWeight="0.5124536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.48754638" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13033953" sideWeight="0.48754638" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -368,9 +330,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md" />
-    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md" />
-    <entry file="file://$PROJECT_DIR$/1.let变量.md" />
     <entry file="file://$PROJECT_DIR$/02.块级作用域.md" />
     <entry file="file://$PROJECT_DIR$/01. let命令.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
@@ -435,16 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.顶层对象与全局变量属性.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -749,6 +698,50 @@
               <marker date="1528343454984" expanded="true" signature="14935:15244" ph="{...}" />
               <marker date="1528343454984" expanded="true" signature="15123:15236" ph="[...]" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.顶层对象与全局变量属性.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="487">
+            <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25.Module 的加载实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26.编码风格.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="93" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27.读懂ECMAScript规格.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1120">
+            <caret line="203" column="43" lean-forward="true" selection-start-line="203" selection-start-column="43" selection-end-line="203" selection-end-column="43" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
