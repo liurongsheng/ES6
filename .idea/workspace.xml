@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="291189a3-60f7-4881-ac61-1c0ad5357b68" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/24.Module的语法.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/1. let命令.md" afterPath="$PROJECT_DIR$/01. let命令.md" />
-      <change beforePath="$PROJECT_DIR$/2.块级作用域.md" afterPath="$PROJECT_DIR$/02.块级作用域.md" />
-      <change beforePath="$PROJECT_DIR$/3.const命令.md" afterPath="$PROJECT_DIR$/03.const命令.md" />
-      <change beforePath="$PROJECT_DIR$/4.顶层对象与全局变量属性.md" afterPath="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
-      <change beforePath="$PROJECT_DIR$/5.变量的解构赋值.md" afterPath="$PROJECT_DIR$/05.变量的解构赋值.md" />
-      <change beforePath="$PROJECT_DIR$/6.字符串的扩展.md" afterPath="$PROJECT_DIR$/06.字符串的扩展.md" />
-      <change beforePath="$PROJECT_DIR$/7.正则的拓展.md" afterPath="$PROJECT_DIR$/07.正则的拓展.md" />
-      <change beforePath="$PROJECT_DIR$/8.数值的扩展.md" afterPath="$PROJECT_DIR$/08.数值的扩展.md" />
-      <change beforePath="$PROJECT_DIR$/9.函数的拓展.md" afterPath="$PROJECT_DIR$/09.函数的拓展.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,78 +17,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="15.Reflect.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15.Reflect.md">
+      <file leaf-file-name="24.Module的语法.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/24.Module的语法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="69" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="16.Promise.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16.Promise.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17.Iterator 和 for...of 循环.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17.Iterator 和 for...of 循环.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="69" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="18.Generator 函数的语法.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/18.Generator 函数的语法.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="221">
-                <caret line="13" column="138" lean-forward="false" selection-start-line="13" selection-start-column="138" selection-end-line="13" selection-end-column="138" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="19.Generator 函数的异步应用.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19.Generator 函数的异步应用.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="21.Class 的基本语法.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/21.Class 的基本语法.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="708">
-                <caret line="786" column="25" lean-forward="false" selection-start-line="786" selection-start-column="25" selection-end-line="786" selection-end-column="25" />
-                <folding />
+              <first_editor relative-caret-position="425">
+                <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+                <folding>
+                  <marker date="1528343454984" expanded="true" signature="2817:2844" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="4006:4055" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="4272:4335" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="5444:5488" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="5494:5538" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="5725:5755" ph="..." />
+                  <marker date="1528343454984" expanded="true" signature="5794:5856" ph="..." />
+                  <marker date="1528343454984" expanded="true" signature="6406:6453" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="6501:6543" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="7314:7347" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="7715:7748" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="7782:7815" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="7956:7982" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="7958:7976" ph="//..." />
+                  <marker date="1528343454984" expanded="true" signature="8019:8040" ph="//..." />
+                  <marker date="1528343454984" expanded="true" signature="8069:8095" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="8071:8089" ph="//..." />
+                  <marker date="1528343454984" expanded="true" signature="8469:8496" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="8530:8582" ph="//..." />
+                  <marker date="1528343454984" expanded="true" signature="8633:8673" ph="//..." />
+                  <marker date="1528343454984" expanded="true" signature="9330:9350" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="9405:9425" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="9600:9607" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="10440:10589" ph="..." />
+                  <marker date="1528343454984" expanded="true" signature="10957:10990" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="11287:11349" ph="..." />
+                  <marker date="1528343454984" expanded="true" signature="11754:11782" ph="//..." />
+                  <marker date="1528343454984" expanded="true" signature="11973:12099" ph="{&quot;url&quot;: 'http://my.couchdbserver.local:5984'...}" />
+                  <marker date="1528343454984" expanded="true" signature="12547:12595" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="13308:13352" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="13374:13423" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="13707:13869" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="13765:13800" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="13824:13862" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="13834:13854" ph="/*...*/" />
+                  <marker date="1528343454984" expanded="true" signature="13990:14032" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="14038:14080" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="14338:14359" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="14494:14538" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="14630:14668" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="14715:14812" ph="[...]" />
+                  <marker date="1528343454984" expanded="true" signature="14857:14875" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="14935:15244" ph="{...}" />
+                  <marker date="1528343454984" expanded="true" signature="15123:15236" ph="[...]" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -116,12 +88,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20.async 函数.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20.async 函数.md">
+      <file leaf-file-name="21.Class 的基本语法.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/21.Class 的基本语法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="2187">
+                <caret line="786" column="25" lean-forward="false" selection-start-line="786" selection-start-column="25" selection-end-line="786" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -129,12 +101,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14.Proxy.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14.Proxy.md">
+      <file leaf-file-name="20.async 函数.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20.async 函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="69" />
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="93" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -191,6 +163,7 @@
         <option value="$PROJECT_DIR$/18.Generator 函数的语法.md" />
         <option value="$PROJECT_DIR$/19.Generator 函数的异步应用.md" />
         <option value="$PROJECT_DIR$/20.async 函数.md" />
+        <option value="$PROJECT_DIR$/24.Module的语法.md" />
       </list>
     </option>
   </component>
@@ -226,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -238,7 +212,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,29 +285,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71187000" />
+    <option name="totallyTimeSpent" value="75039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1925" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13195549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08320085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.5082141" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.5124536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.4917859" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.48754638" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.5082141" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13033953" sideWeight="0.4917859" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13195549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md" />
     <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md" />
     <entry file="file://$PROJECT_DIR$/07.正则的拓展.md" />
     <entry file="file://$PROJECT_DIR$/1.let变量.md" />
@@ -570,7 +553,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
             <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -581,7 +563,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2465">
             <caret line="145" column="11" lean-forward="false" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -592,7 +573,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1292">
             <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -603,7 +583,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1829">
             <caret line="731" column="70" lean-forward="false" selection-start-line="731" selection-start-column="70" selection-end-line="731" selection-end-column="70" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -614,31 +593,12 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23.Decorator修饰器.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1" />
     <entry file="file://$PROJECT_DIR$/14.Proxy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -705,7 +665,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20.async 函数.md">
+    <entry file="file://$PROJECT_DIR$/23.Decorator修饰器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -719,9 +679,76 @@
     <entry file="file://$PROJECT_DIR$/21.Class 的基本语法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="708">
+          <first_editor relative-caret-position="2187">
             <caret line="786" column="25" lean-forward="false" selection-start-line="786" selection-start-column="25" selection-end-line="786" selection-end-column="25" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20.async 函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="93" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24.Module的语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <folding>
+              <marker date="1528343454984" expanded="true" signature="2817:2844" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="4006:4055" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="4272:4335" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="5444:5488" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="5494:5538" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="5725:5755" ph="..." />
+              <marker date="1528343454984" expanded="true" signature="5794:5856" ph="..." />
+              <marker date="1528343454984" expanded="true" signature="6406:6453" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="6501:6543" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="7314:7347" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="7715:7748" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="7782:7815" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="7956:7982" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="7958:7976" ph="//..." />
+              <marker date="1528343454984" expanded="true" signature="8019:8040" ph="//..." />
+              <marker date="1528343454984" expanded="true" signature="8069:8095" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="8071:8089" ph="//..." />
+              <marker date="1528343454984" expanded="true" signature="8469:8496" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="8530:8582" ph="//..." />
+              <marker date="1528343454984" expanded="true" signature="8633:8673" ph="//..." />
+              <marker date="1528343454984" expanded="true" signature="9330:9350" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="9405:9425" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="9600:9607" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="10440:10589" ph="..." />
+              <marker date="1528343454984" expanded="true" signature="10957:10990" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="11287:11349" ph="..." />
+              <marker date="1528343454984" expanded="true" signature="11754:11782" ph="//..." />
+              <marker date="1528343454984" expanded="true" signature="11973:12099" ph="{&quot;url&quot;: 'http://my.couchdbserver.local:5984'...}" />
+              <marker date="1528343454984" expanded="true" signature="12547:12595" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="13308:13352" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="13374:13423" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="13707:13869" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="13765:13800" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="13824:13862" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="13834:13854" ph="/*...*/" />
+              <marker date="1528343454984" expanded="true" signature="13990:14032" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="14038:14080" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="14338:14359" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="14494:14538" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="14630:14668" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="14715:14812" ph="[...]" />
+              <marker date="1528343454984" expanded="true" signature="14857:14875" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="14935:15244" ph="{...}" />
+              <marker date="1528343454984" expanded="true" signature="15123:15236" ph="[...]" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
