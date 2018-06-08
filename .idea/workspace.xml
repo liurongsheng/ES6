@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="291189a3-60f7-4881-ac61-1c0ad5357b68" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/23.Decorator修饰器.md" afterPath="$PROJECT_DIR$/23.Decorator修饰器.md" />
+      <change beforePath="$PROJECT_DIR$/01. let命令.md" afterPath="$PROJECT_DIR$/01. let命令.md" />
+      <change beforePath="$PROJECT_DIR$/02.块级作用域.md" afterPath="$PROJECT_DIR$/02.块级作用域.md" />
+      <change beforePath="$PROJECT_DIR$/03.const命令.md" afterPath="$PROJECT_DIR$/03.const命令.md" />
+      <change beforePath="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" afterPath="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
+      <change beforePath="$PROJECT_DIR$/05.变量的解构赋值.md" afterPath="$PROJECT_DIR$/05.变量的解构赋值.md" />
+      <change beforePath="$PROJECT_DIR$/06.字符串的扩展.md" afterPath="$PROJECT_DIR$/06.字符串的扩展.md" />
+      <change beforePath="$PROJECT_DIR$/07.正则的拓展.md" afterPath="$PROJECT_DIR$/07.正则的拓展.md" />
+      <change beforePath="$PROJECT_DIR$/08.数值的扩展.md" afterPath="$PROJECT_DIR$/08.数值的扩展.md" />
+      <change beforePath="$PROJECT_DIR$/09.函数的拓展.md" afterPath="$PROJECT_DIR$/09.函数的拓展.md" />
+      <change beforePath="$PROJECT_DIR$/10.数组的扩展.md" afterPath="$PROJECT_DIR$/10.数组的扩展.md" />
+      <change beforePath="$PROJECT_DIR$/11.对象的拓展.md" afterPath="$PROJECT_DIR$/11.对象的拓展.md" />
+      <change beforePath="$PROJECT_DIR$/12.Symbol.md" afterPath="$PROJECT_DIR$/12.Symbol.md" />
+      <change beforePath="$PROJECT_DIR$/13.Set 和 Map 数据结构.md" afterPath="$PROJECT_DIR$/13.Set 和 Map 数据结构.md" />
+      <change beforePath="$PROJECT_DIR$/14.Proxy.md" afterPath="$PROJECT_DIR$/14.Proxy.md" />
+      <change beforePath="$PROJECT_DIR$/15.Reflect.md" afterPath="$PROJECT_DIR$/15.Reflect.md" />
+      <change beforePath="$PROJECT_DIR$/16.Promise.md" afterPath="$PROJECT_DIR$/16.Promise.md" />
+      <change beforePath="$PROJECT_DIR$/17.Iterator 和 for...of 循环.md" afterPath="$PROJECT_DIR$/17.Iterator 和 for...of 循环.md" />
+      <change beforePath="$PROJECT_DIR$/18.Generator 函数的语法.md" afterPath="$PROJECT_DIR$/18.Generator 函数的语法.md" />
+      <change beforePath="$PROJECT_DIR$/19.Generator 函数的异步应用.md" afterPath="$PROJECT_DIR$/19.Generator 函数的异步应用.md" />
+      <change beforePath="$PROJECT_DIR$/20.async 函数.md" afterPath="$PROJECT_DIR$/20.async 函数.md" />
+      <change beforePath="$PROJECT_DIR$/22.Class 的继承.md" afterPath="$PROJECT_DIR$/22.Class 的继承.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +36,128 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="23.Decorator修饰器.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="23.Decorator修饰器.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/23.Decorator修饰器.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1581">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="24.Module的语法.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/24.Module的语法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="26.编码风格.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/26.编码风格.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="25.Module 的加载实现.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/25.Module 的加载实现.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="21.Class 的基本语法.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/21.Class 的基本语法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22.Class 的继承.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22.Class 的继承.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17.Iterator 和 for...of 循环.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17.Iterator 和 for...of 循环.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18.Generator 函数的语法.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18.Generator 函数的语法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19.Generator 函数的异步应用.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/19.Generator 函数的异步应用.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20.async 函数.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20.async 函数.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -63,27 +199,35 @@
         <option value="$PROJECT_DIR$/6.字符串的扩展.md" />
         <option value="$PROJECT_DIR$/7.正则的拓展.md" />
         <option value="$PROJECT_DIR$/8.数值的扩展.md" />
-        <option value="$PROJECT_DIR$/11.对象的拓展.md" />
-        <option value="$PROJECT_DIR$/12.Symbol.md" />
-        <option value="$PROJECT_DIR$/13.Set 和 Map 数据结构.md" />
-        <option value="$PROJECT_DIR$/14.Proxy.md" />
         <option value="$PROJECT_DIR$/9.函数的拓展.md" />
-        <option value="$PROJECT_DIR$/10.数组的扩展.md" />
         <option value="$PROJECT_DIR$/1" />
-        <option value="$PROJECT_DIR$/15.Reflect.md" />
-        <option value="$PROJECT_DIR$/16.Promise.md" />
-        <option value="$PROJECT_DIR$/17.Iterator 和 for...of 循环.md" />
-        <option value="$PROJECT_DIR$/19.Generator 函数的异步应用.md" />
-        <option value="$PROJECT_DIR$/20.async 函数.md" />
-        <option value="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
         <option value="$PROJECT_DIR$/27.读懂ECMAScript规格.md" />
         <option value="$PROJECT_DIR$/26.编码风格.md" />
         <option value="$PROJECT_DIR$/25.Module 的加载实现.md" />
         <option value="$PROJECT_DIR$/24.Module的语法.md" />
-        <option value="$PROJECT_DIR$/18.Generator 函数的语法.md" />
-        <option value="$PROJECT_DIR$/22.Class 的继承.md" />
         <option value="$PROJECT_DIR$/21.Class 的基本语法.md" />
         <option value="$PROJECT_DIR$/23.Decorator修饰器.md" />
+        <option value="$PROJECT_DIR$/01. let命令.md" />
+        <option value="$PROJECT_DIR$/02.块级作用域.md" />
+        <option value="$PROJECT_DIR$/03.const命令.md" />
+        <option value="$PROJECT_DIR$/04.顶层对象与全局变量属性.md" />
+        <option value="$PROJECT_DIR$/05.变量的解构赋值.md" />
+        <option value="$PROJECT_DIR$/06.字符串的扩展.md" />
+        <option value="$PROJECT_DIR$/07.正则的拓展.md" />
+        <option value="$PROJECT_DIR$/08.数值的扩展.md" />
+        <option value="$PROJECT_DIR$/10.数组的扩展.md" />
+        <option value="$PROJECT_DIR$/11.对象的拓展.md" />
+        <option value="$PROJECT_DIR$/12.Symbol.md" />
+        <option value="$PROJECT_DIR$/13.Set 和 Map 数据结构.md" />
+        <option value="$PROJECT_DIR$/14.Proxy.md" />
+        <option value="$PROJECT_DIR$/15.Reflect.md" />
+        <option value="$PROJECT_DIR$/17.Iterator 和 for...of 循环.md" />
+        <option value="$PROJECT_DIR$/18.Generator 函数的语法.md" />
+        <option value="$PROJECT_DIR$/19.Generator 函数的异步应用.md" />
+        <option value="$PROJECT_DIR$/20.async 函数.md" />
+        <option value="$PROJECT_DIR$/22.Class 的继承.md" />
+        <option value="$PROJECT_DIR$/09.函数的拓展.md" />
+        <option value="$PROJECT_DIR$/16.Promise.md" />
       </list>
     </option>
   </component>
@@ -205,7 +349,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85330000" />
+    <option name="totallyTimeSpent" value="89586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1925" height="1050" extended-state="0" />
@@ -355,11 +499,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03.const命令.md">
+    <entry file="file://$PROJECT_DIR$/1" />
+    <entry file="file://$PROJECT_DIR$/27.读懂ECMAScript规格.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. let命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.块级作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.const命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -370,56 +549,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01. let命令.md">
+    <entry file="file://$PROJECT_DIR$/04.顶层对象与全局变量属性.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.块级作用域.md">
+    <entry file="file://$PROJECT_DIR$/05.变量的解构赋值.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08.数值的扩展.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13.Set 和 Map 数据结构.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -428,8 +574,9 @@
     <entry file="file://$PROJECT_DIR$/06.字符串的扩展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -440,21 +587,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.变量的解构赋值.md">
+    <entry file="file://$PROJECT_DIR$/07.正则的拓展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.数值的扩展.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/09.函数的拓展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -468,8 +633,9 @@
     <entry file="file://$PROJECT_DIR$/10.数组的扩展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2465">
-            <caret line="145" column="11" lean-forward="false" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -478,8 +644,9 @@
     <entry file="file://$PROJECT_DIR$/11.对象的拓展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1292">
-            <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -488,58 +655,42 @@
     <entry file="file://$PROJECT_DIR$/12.Symbol.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1829">
-            <caret line="731" column="70" lean-forward="false" selection-start-line="731" selection-start-column="70" selection-end-line="731" selection-end-column="70" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1" />
-    <entry file="file://$PROJECT_DIR$/04.顶层对象与全局变量属性.md">
+    <entry file="file://$PROJECT_DIR$/13.Set 和 Map 数据结构.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="900">
-            <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18.Generator 函数的语法.md">
+    <entry file="file://$PROJECT_DIR$/14.Proxy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23544">
-            <caret line="1308" column="31" lean-forward="true" selection-start-line="1308" selection-start-column="31" selection-end-line="1308" selection-end-column="31" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24.Module的语法.md">
+    <entry file="file://$PROJECT_DIR$/15.Reflect.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-933">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-            <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-            <caret line="179" column="0" lean-forward="true" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-            <caret line="262" column="0" lean-forward="true" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
-            <caret line="300" column="0" lean-forward="true" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
-            <caret line="422" column="0" lean-forward="true" selection-start-line="422" selection-start-column="0" selection-end-line="422" selection-end-column="0" />
-            <caret line="466" column="0" lean-forward="true" selection-start-line="466" selection-start-column="0" selection-end-line="466" selection-end-column="0" />
-            <caret line="498" column="0" lean-forward="true" selection-start-line="498" selection-start-column="0" selection-end-line="498" selection-end-column="0" />
-            <caret line="537" column="0" lean-forward="true" selection-start-line="537" selection-start-column="0" selection-end-line="537" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25.Module 的加载实现.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -548,8 +699,31 @@
     <entry file="file://$PROJECT_DIR$/16.Promise.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.Iterator 和 for...of 循环.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="11" />
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18.Generator 函数的语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -560,16 +734,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15.Reflect.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="69" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -578,72 +743,9 @@
     <entry file="file://$PROJECT_DIR$/20.async 函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="93" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14.Proxy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="69" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/27.读懂ECMAScript规格.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="524">
-            <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-            <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-            <caret line="84" column="4" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
-            <caret line="116" column="4" lean-forward="false" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
-            <caret line="169" column="4" lean-forward="false" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
-            <caret line="225" column="4" lean-forward="false" selection-start-line="225" selection-start-column="4" selection-end-line="225" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17.Iterator 和 for...of 循环.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="69" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/26.编码风格.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="7650">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-            <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-            <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-            <caret line="208" column="0" lean-forward="false" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
-            <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
-            <caret line="300" column="0" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
-            <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
-            <caret line="365" column="0" lean-forward="false" selection-start-line="365" selection-start-column="0" selection-end-line="365" selection-end-column="0" />
-            <caret line="425" column="0" lean-forward="false" selection-start-line="425" selection-start-column="0" selection-end-line="425" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22.Class 的继承.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3384">
-            <caret line="416" column="0" lean-forward="false" selection-start-line="416" selection-start-column="0" selection-end-line="416" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -660,11 +762,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/22.Class 的继承.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/23.Decorator修饰器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1581">
+          <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24.Module的语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26.编码风格.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25.Module 的加载实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
